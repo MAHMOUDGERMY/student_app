@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "410109740481",
+    "project_id": "majles-421fc",
+    "storage_bucket": "majles-421fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410109740481:android:53def529c6629c06c6db40",
+        "android_client_info": {
+          "package_name": "com.example.majles_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410109740481-86uq15h3oabdgrmopdec2kh6s748q238.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.majles_app",
+            "certificate_hash": "c7b27857cc085ac6d7a34d456e9c0d0a5dc52653"
+          }
+        },
+        {
+          "client_id": "410109740481-7qksct6ms0hlbgeg4thr4pdaknqcj1vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv9M-2kgesiNKu9sKbasVxciHzJEbOEm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410109740481-7qksct6ms0hlbgeg4thr4pdaknqcj1vj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
